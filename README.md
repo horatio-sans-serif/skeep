@@ -64,7 +64,7 @@ Horatio Sans Serif (https://github.com/horatio-sans-serif)
 
 ## Copyright
 
-Copyright (C) 2019 Fictorial LLC.  All Rights Reserved.
+Copyright (C) 2019-2022 Fictorial LLC.  All Rights Reserved.
 
 ## License
 
