@@ -4,7 +4,7 @@ SKEEP is a clone of a popular card game.  You play against the computer.
 
 ![gameplay](images/gameplay.png)
 
-[Play Online Now](https://skeep.glitch.me)
+[Play Online Now](https://horatio-sans-serif.github.io/skeep/)
 
 ## Board
 
