@@ -5,8 +5,8 @@
   "background_color": "#e7e7e7",
   "display": "standalone",
   "orientation": "portrait",
-  "Scope": "/",
-  "start_url": "/",
+  "scope": "/skeep/",
+  "start_url": "/skeep/",
   "icons": [
     {
       "src": "images/icons/icon-72x72.png",
