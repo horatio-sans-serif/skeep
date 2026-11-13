@@ -75,9 +75,10 @@ Horatio Sans Serif (https://github.com/horatio-sans-serif)
 
 ## Copyright
 
-Copyright (C) 2019-2023 Fictorial LLC.  All Rights Reserved.
+Copyright (C) 2019-2023 Fictorial LLC.
 
 ## License
 
-No license is granted as this is a clone of an already popular card game.
-You may not distribute this code in any form.  Just enjoy it here, OK?
+The code in this repository is released under the MIT License; see [LICENSE](LICENSE).
+The license covers this code only. It grants no rights to the original card game
+this project imitates, including its name and branding.
